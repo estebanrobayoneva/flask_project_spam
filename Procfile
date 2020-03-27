@@ -1,1 +1,1 @@
-web: gunicorn app:appfsk01
+web: gunicorn main:app
