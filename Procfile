@@ -1,1 +1,1 @@
-web: gunicorn app:fsk01
+web: gunicorn app:appfsk01
