@@ -1,10 +1,6 @@
-To Deploy the app you can run
+application flask: spam classification
 
 
->> gcloud app deploy
+>> heroku app browse
 
-Follow the prompt instructions to set it up
-
->> gcloud app browse
-
-or Paste your url to new tab
+https://appfsk01.herokuapp.com/
